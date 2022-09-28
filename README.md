@@ -1,0 +1,2 @@
+# Tachi
+Bot Discord Français.
